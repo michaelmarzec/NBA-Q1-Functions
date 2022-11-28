@@ -112,9 +112,9 @@ def main(filename='./22_23_q1_data.csv'):
 
 # ## Local Runs ##
 if __name__ == "__main__":
-    # print('execution started')
-    # main()
-    # print('execution complete')
+    print('execution started')
+    main()
+    print('execution complete')
 
 
 ######## lambda ########## 
